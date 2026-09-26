@@ -21,7 +21,7 @@ Check a change before it ships: paste the workflow. Free. No account. Nothing is
 
 ---
 
-This case is on the site's [list of fixed breaks](https://workflow.muoto.xyz/cases/?utm_source=github), under fsebbah/n8n-workflows.
+Read it on the site: [https://workflow.muoto.xyz/cases/fsebbah-n8n-workflows-f2479a1e](https://workflow.muoto.xyz/cases/fsebbah-n8n-workflows-f2479a1e?utm_source=github)
 
 Check your own workflow: [https://workflow.muoto.xyz](https://workflow.muoto.xyz/?utm_source=github). Free, no account.
 

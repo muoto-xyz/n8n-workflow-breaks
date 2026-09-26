@@ -21,7 +21,7 @@ Check a change before it ships: paste the workflow. Free. No account. Nothing is
 
 ---
 
-This case is on the site's [list of fixed breaks](https://workflow.muoto.xyz/cases/?utm_source=github), under GitHubProgramming/autoshop-sms-ai.
+Read it on the site: [https://workflow.muoto.xyz/cases/githubprogramming-autoshop-sms-ai-a82fa655](https://workflow.muoto.xyz/cases/githubprogramming-autoshop-sms-ai-a82fa655?utm_source=github)
 
 Check your own workflow: [https://workflow.muoto.xyz](https://workflow.muoto.xyz/?utm_source=github). Free, no account.
 
