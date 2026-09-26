@@ -2,7 +2,7 @@
 
 Readings of public n8n workflows by a free check, [Workflow check](https://workflow.muoto.xyz/?utm_source=github). Each page shows what the check found in one workflow file, in the words the check's site uses, beside the file it was found in: the template on n8n.io, or the team's own commits on GitHub. Every finding here was read against that file before it went up.
 
-There are 12 template readings, 51 fixed breaks and 1 error page.
+There are 11 template readings, 51 fixed breaks and 1 error page.
 
 ## Templates
 
@@ -19,7 +19,6 @@ Among the most-viewed free templates on n8n.io, read before you import them.
 - [Clone Viral TikToks with AI Avatars & Auto-Post to 9 Platforms using Perplexity & Blotato: where this n8n template breaks](templates/4110.md)
 - [Conversational Telegram Bot with GPT-5/GPT-4o for Text and Voice Messages: where this n8n template breaks](templates/4696.md)
 - [Generate AI Videos with Google Veo3, Save to Google Drive and Upload to YouTube: where this n8n template breaks](templates/4846.md)
-- [Build Your First AI Agent: where this n8n template breaks](templates/6270.md)
 
 ## Fixed breaks
 
